@@ -1,0 +1,6 @@
+{
+  "name": "Calendario Femsa",
+  "description": "Calendario de turnos rotativos para el personal de Femsa, incluyendo grupos A-D, E-F, N-O, P-Q, U-W y X-Z.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
